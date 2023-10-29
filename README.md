@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and finances 
 - 🌱 I’m currently learning the basics with html, Css and java 
 - 💞️ I’m looking to collaborate on java 
-- 📫 How to reach me instagram julius_0547
+- 📫 How to reach me insta: julius_0547
 
 <!---
 julusmax/julusmax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
